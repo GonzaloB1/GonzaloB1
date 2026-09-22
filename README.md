@@ -32,23 +32,23 @@ Me interesa seguir creciendo profesionalmente, enfrentar nuevos desafíos y part
 
 Proyecto realizado de manera colaborativa, aplicando conocimientos de desarrollo Full Stack, trabajo con Git/GitHub y organización de un proyecto en equipo.
 
-### 🛒 [E-commerce](https://github.com/GonzaloB1/ProyectoM5_GonzaloBastias)
+### 🛒 [commerce-platform](https://github.com/GonzaloB1/ProyectoM5_GonzaloBastias)
 
 Aplicación web de comercio, desarrollada como parte de mi formación Full Stack.
 
-### 🤖 [Integración con IA](https://github.com/GonzaloB1/ProyectoM3_GonzaloBastias)
+### 🤖 [Personajes-ia-chat](https://github.com/GonzaloB1/ProyectoM3_GonzaloBastias)
 
 Aplicación que utiliza **inteligencia artificial** para simular conversaciones con personajes ficticios, integrando IA dentro de una aplicación web.
 
-### 📚 M4
+### 📚 matecode
 
 Proyecto desarrollado durante mi formación, aplicando los conocimientos adquiridos en esta etapa.
 
-### 💻 M2
+### 💻 blog-api-rest
 
 Proyecto desarrollado durante mi formación, enfocado en continuar fortaleciendo mis conocimientos de desarrollo web.
 
-### 🌐 M1
+### 🌐 Crea tus paletas de colores
 
 Proyecto inicial de mi formación en desarrollo de software.
 
