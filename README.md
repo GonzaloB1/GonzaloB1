@@ -1,70 +1,44 @@
+# Hola, soy Gonzalo 👋
 
-# 👋 Hola, soy Gonzalo Bastias
+### Frontend Developer Jr. | React · TypeScript · Node.js
 
-### Full Stack Developer · Orientado al Frontend
+Soy desarrollador Frontend con orientación Full Stack, especializado en React y TypeScript.
 
-Soy desarrollador **Full Stack** con especial interés en el desarrollo Frontend. Me gusta crear aplicaciones web funcionales, intuitivas y bien estructuradas, combinando una buena experiencia de usuario con código mantenible.
+Me enfoco en desarrollar aplicaciones web funcionales y escalables, trabajando con autenticación, APIs REST, bases de datos, testing e integraciones con servicios externos.
 
-Trabajo principalmente con **React, TypeScript, JavaScript, Node.js, Express y PostgreSQL**, y tengo experiencia integrando APIs, autenticación, testing, bases de datos, servicios cloud e inteligencia artificial.
+Actualmente estoy buscando mi primera oportunidad profesional en tecnología y continúo desarrollando proyectos para profundizar mis conocimientos.
 
-Me interesa seguir creciendo profesionalmente, enfrentar nuevos desafíos y participar en proyectos donde pueda aportar mis conocimientos mientras continúo aprendiendo.
+## 🚀 Tecnologías
 
----
+### Frontend
+React · TypeScript · JavaScript · HTML5 · CSS3 · Vite · React Router
 
-## 🛠️ Tecnologías y capacidades
+### Backend
+Node.js · Express · REST APIs · Serverless Functions
 
-* **Frontend:** React, TypeScript, JavaScript, HTML, CSS, Vite, React Router.
-* **Backend:** Node.js, Express, TypeScript, APIs REST.
-* **Bases de datos:** PostgreSQL, migraciones y modelado de datos.
-* **Autenticación y seguridad:** JWT, bcrypt, OAuth 2.0 (Google), Zod.
-* **Testing:** Vitest, Testing Library.
-* **Cloud & DevOps:** Vercel, Railway, AWS (SES), GitHub Actions.
-* **Herramientas:** Git, GitHub, npm, ESLint, Swagger.
-* **Otros:** WebSockets (Socket.io), integración con IA mediante Gemini.
+### Bases de datos
+PostgreSQL · Firebase Firestore
 
----
+### Testing
+Vitest · Jest · React Testing Library · Supertest
 
-## 🚀 Proyectos destacados
+### Herramientas y Cloud
+Git · GitHub · Vercel · Railway · AWS S3 · AWS SES · Swagger/OpenAPI
 
-### 🧀 [Cheese Cash](https://github.com/Leonelbruno/cheesecash-frontend)
+## ⭐ Proyectos destacados
 
-**Proyecto integrador desarrollado en equipo.**
+### 💳 Cheese Cash
+Billetera virtual desarrollada de forma colaborativa.
 
-Proyecto realizado de manera colaborativa, aplicando conocimientos de desarrollo Full Stack, trabajo con Git/GitHub y organización de un proyecto en equipo.
+Participé principalmente en Frontend, trabajando en autenticación, transferencias, cotizaciones mediante APIs externas, Socket.io y testing con Vitest.
 
-### 🛒 [commerce-platform](https://github.com/GonzaloB1/ProyectoM5_GonzaloBastias)
+### 🛒 E-Commerce Full Stack
+E-commerce desarrollado con React y TypeScript con autenticación, roles, carrito, checkout, panel administrativo, AWS S3 y testing.
 
-Aplicación web de comercio, desarrollada como parte de mi formación Full Stack.
+### 🤖 Gemini Character Chat
+Aplicación de chat con IA integrada con Google Gemini mediante Vercel Serverless Functions.
 
-### 🤖 [Personajes-ia-chat](https://github.com/GonzaloB1/ProyectoM3_GonzaloBastias)
+## 📫 Contacto
 
-Aplicación que utiliza **inteligencia artificial** para simular conversaciones con personajes ficticios, integrando IA dentro de una aplicación web.
-
-### 📚 matecode
-
-Proyecto desarrollado durante mi formación, aplicando los conocimientos adquiridos en esta etapa.
-
-### 💻 blog-api-rest
-
-Proyecto desarrollado durante mi formación, enfocado en continuar fortaleciendo mis conocimientos de desarrollo web.
-
-### 🌐 Crea tus paletas de colores
-
-Proyecto inicial de mi formación en desarrollo de software.
-
----
-
-## 💡 Lo que impulsa mi trabajo
-
-* 🔭 **Desarrollo:** Me interesa crear aplicaciones web funcionales y experiencias de usuario claras.
-* 🧠 **Aprendizaje:** Disfruto investigar y entender cómo funcionan las tecnologías, especialmente cuando encuentro un problema que necesito resolver.
-* 🛠️ **Práctica:** Me gusta aprender mediante proyectos reales y llevar los conocimientos teóricos a la práctica.
-* 🤝 **Trabajo en equipo:** Valoro la colaboración, la comunicación y el uso de buenas prácticas para construir proyectos en conjunto.
-
----
-
-## 📫 Conecta conmigo
-
-* 📧 **Email:** [bastiasgonzalo6@gmail.com](mailto:bastiasgonzalo6@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/gonzalo-bastias-161320430](https://www.linkedin.com/in/gonzalo-bastias-161320430/)
-* 🐙 **GitHub:** [github.com/GonzaloB1](https://github.com/GonzaloB1)
+- LinkedIn: linkedin.com/in/gonzalo-bastias-161320430
+- Email: bastiasgonzalo77@gmail.com
