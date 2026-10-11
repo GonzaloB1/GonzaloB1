@@ -1,12 +1,14 @@
 # 👋 Hola, soy Gonzalo Bastias
 
-### Frontend Developer Jr. | React · TypeScript · Node.js
+### Full Stack Developer Jr. | React · Next.js · TypeScript · Node.js · Express · PostgreSQL | Python · Django
 
-Soy desarrollador **Frontend con orientación Full Stack**, especializado en React y TypeScript.
+Soy desarrollador **Full Stack Jr.**, con experiencia práctica en aplicaciones web, APIs REST, autenticación, bases de datos e integraciones con servicios externos.
 
-Desarrollo aplicaciones web trabajando con interfaces, APIs REST, autenticación, bases de datos, testing e integraciones con servicios externos.
+He trabajado en proyectos individuales y colaborativos utilizando tecnologías frontend y backend.
 
-Actualmente busco mi primera oportunidad profesional en tecnología, mientras continúo desarrollando proyectos y profundizando mis conocimientos.
+Actualmente desarrollo **MotoParts Platform**, una plataforma para un cliente real que combina comercio electrónico y gestión de taller de motocicletas. Estoy incorporando Python y Django para su futuro backend.
+
+Busco oportunidades profesionales como **Full Stack Developer Jr.**, donde pueda aportar mis conocimientos y seguir creciendo.
 
 ---
 
