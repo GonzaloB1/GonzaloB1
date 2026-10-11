@@ -119,6 +119,6 @@ Implementé diferentes cantidades y formatos de color, interacción para copiar 
 
 ## 📫 Contacto
 
-- 📧 **Email:** [bastiasgonzalo77@gmail.com](mailto:bastiasgonzalo77@gmail.com)
+- 📧 **Email:** [bastiasgonzalo77@gmail.com](mailto:bastiasgonzalo6@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/gonzalo-bastias-161320430](https://www.linkedin.com/in/gonzalo-bastias-161320430/)
 - 🐙 **GitHub:** [github.com/GonzaloB1](https://github.com/GonzaloB1)
