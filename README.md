@@ -14,12 +14,13 @@ Busco oportunidades profesionales como **Full Stack Developer Jr.**, donde pueda
 
 ## 🛠️ Tecnologías y capacidades
 
-- **Frontend:** React, TypeScript, JavaScript, HTML5, CSS3, Vite, React Router, Context API.
+- **Frontend:** React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Vite, React Router.
 - **Backend:** Node.js, Express, TypeScript, APIs REST, Serverless Functions.
 - **Bases de datos:** PostgreSQL, Firebase Firestore.
-- **Autenticación y seguridad:** JWT, bcrypt, OAuth 2.0 (Google), Zod.
+- **Python y Django:** tecnologías que estoy incorporando para el backend de MotoParts Platform.
+- **Autenticación y seguridad:** JWT, bcrypt, OAuth 2.0, Zod.
 - **Testing:** Vitest, Jest, React Testing Library, Supertest.
-- **Cloud & DevOps:** Vercel, Railway, AWS S3, AWS SES, GitHub Actions.
+- **Cloud y DevOps:** Vercel, Railway, AWS S3, AWS SES, GitHub Actions.
 - **Herramientas:** Git, GitHub, npm, ESLint, Swagger/OpenAPI.
 - **Otros:** WebSockets (Socket.io), Google Gemini API.
 
@@ -40,6 +41,19 @@ También desarrollé visualización de información mediante un gráfico SVG reu
 ---
 
 ### 🛒 [commerce-platform](https://github.com/GonzaloB1/ProyectoM5_GonzaloBastias)
+
+### 🏍️ MotoParts Platform
+
+**Plataforma Full Stack de comercio electrónico y gestión de taller | Cliente real · En desarrollo**
+
+Estoy desarrollando una plataforma web para un negocio de motocicletas que integra la venta de repuestos y accesorios con la gestión administrativa y del taller.
+
+- Desarrollo del frontend con **Next.js, React, TypeScript y Tailwind CSS**.
+- Implementación de interfaces para catálogo, búsqueda de productos, filtros y carrito de compras.
+- Organización de vistas para **clientes, empleados, administradores y personal del taller**.
+- Planificación de una API REST con **Python, Django REST Framework y PostgreSQL** para gestionar inventario, ventas, turnos y permisos por rol.
+
+**Estado:** En desarrollo activo.
 
 **Plataforma E-Commerce Full Stack**
 
@@ -95,12 +109,12 @@ Implementé diferentes cantidades y formatos de color, interacción para copiar 
 
 ## 💡 Sobre mí
 
-- 💻 Me oriento principalmente al desarrollo Frontend.
-- 🧠 Disfruto investigar y entender cómo funcionan las tecnologías mientras resuelvo problemas.
-- 🛠️ Me gusta aprender mediante proyectos y llevar los conocimientos teóricos a aplicaciones funcionales.
-- 🤝 Valoro el trabajo en equipo, la comunicación y las buenas prácticas de desarrollo.
-- 🚀 Busco seguir creciendo profesionalmente y enfrentar nuevos desafíos dentro del desarrollo de software.
-
+- 💻 Soy desarrollador Full Stack Jr., con experiencia práctica en frontend y backend.
+- 🛠️ Me gusta crear soluciones completas, desde interfaces hasta APIs REST y bases de datos.
+- 🏍️ Actualmente desarrollo MotoParts Platform, un proyecto para un cliente real.
+- 🧠 Estoy ampliando mis conocimientos en Python y Django.
+- 🤝 Valoro el trabajo en equipo, la comunicación y las buenas prácticas.
+- 🚀 Busco mi primera oportunidad profesional como Full Stack Developer Jr.
 ---
 
 ## 📫 Contacto
