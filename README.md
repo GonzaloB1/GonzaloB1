@@ -1,120 +1,167 @@
 # 👋 Hola, soy Gonzalo Bastias
 
-### Full Stack Developer Jr. | React · Next.js · TypeScript · Node.js · Express · PostgreSQL | Python · Django
+### Full Stack Developer | React · Next.js · TypeScript · Node.js · Python · Django
 
-Soy desarrollador **Full Stack Jr.**, con experiencia práctica en aplicaciones web, APIs REST, autenticación, bases de datos e integraciones con servicios externos.
+Soy desarrollador Full Stack con experiencia práctica en el desarrollo de aplicaciones web, APIs REST, bases de datos e integración de servicios.
 
-He trabajado en proyectos individuales y colaborativos utilizando tecnologías frontend y backend.
+Actualmente participo en tres proyectos comerciales que se encuentran en distintas etapas de desarrollo, trabajando tanto de forma independiente como en equipo.
 
-Actualmente desarrollo **MotoParts Platform**, una plataforma para un cliente real que combina comercio electrónico y gestión de taller de motocicletas. Estoy incorporando Python y Django para su futuro backend.
-
-Busco oportunidades profesionales como **Full Stack Developer Jr.**, donde pueda aportar mis conocimientos y seguir creciendo.
+Me interesa desarrollar soluciones que respondan a necesidades reales, aplicar buenas prácticas y seguir creciendo profesionalmente dentro del desarrollo de software.
 
 ---
 
-## 🛠️ Tecnologías y capacidades
+## 🛠️ Tecnologías y herramientas
 
-- **Frontend:** React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Vite, React Router.
-- **Backend:** Node.js, Express, TypeScript, APIs REST, Serverless Functions.
+- **Frontend:** React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Vite, React Router, CSS Modules.
+- **Backend:** Node.js, Express, Python, Django, Django REST Framework, APIs REST, Serverless Functions.
 - **Bases de datos:** PostgreSQL, Firebase Firestore.
-- **Python y Django:** tecnologías que estoy incorporando para el backend de MotoParts Platform.
 - **Autenticación y seguridad:** JWT, bcrypt, OAuth 2.0, Zod.
-- **Testing:** Vitest, Jest, React Testing Library, Supertest.
-- **Cloud y DevOps:** Vercel, Railway, AWS S3, AWS SES, GitHub Actions.
-- **Herramientas:** Git, GitHub, npm, ESLint, Swagger/OpenAPI.
-- **Otros:** WebSockets (Socket.io), Google Gemini API.
+- **Testing:** Vitest, Jest, React Testing Library, Supertest, pytest.
+- **Herramientas y despliegue:** Git, GitHub, Docker, GitHub Actions, Swagger/OpenAPI, Vercel, Railway, AWS S3/SES.
+- **Otras tecnologías:** Socket.io, Google Gemini API.
 
 ---
 
-## 🚀 Proyectos destacados
+## 💼 Experiencia en proyectos comerciales
+
+### 🏍️ MotoParts Platform — Full Stack Developer
+
+**Plataforma de comercio electrónico y gestión de taller | 10/2026 – Actualidad**
+
+Proyecto colaborativo en desarrollo, orientado a ofrecer una solución integral a negocios del sector de motocicletas.
+
+La plataforma busca integrar la venta online de repuestos y accesorios con herramientas de gestión comercial, inventario y servicios de taller.
+
+**Mi participación:**
+- Desarrollo de interfaces y funcionalidades para catálogo de productos, búsquedas, filtros y carrito de compras.
+- Trabajo en la organización de vistas y permisos para distintos roles de usuario.
+- Implementación progresiva del backend, modelos de datos y funcionalidades administrativas.
+- Trabajo colaborativo utilizando Git, ramas de desarrollo y revisión de cambios.
+
+**Tecnologías:** Next.js, React, TypeScript, Tailwind CSS, Python, Django REST Framework y PostgreSQL.
+
+**Estado:** En desarrollo. Las funcionalidades se encuentran en distintas etapas de implementación.
+
+### 💈 El Buen Barbero — Full Stack Developer
+
+**Sistema web de autogestión de turnos | 10/2026 – Actualidad**
+
+Proyecto en desarrollo para digitalizar la gestión de reservas de una barbería y facilitar la organización de turnos para clientes y personal.
+
+**Mi participación:**
+- Desarrollo de interfaces para consultar disponibilidad y solicitar turnos.
+- Trabajo en los flujos de reservas, cancelaciones y reprogramaciones.
+- Implementación progresiva de funcionalidades administrativas y gestión de horarios.
+- Desarrollo e integración de servicios backend para la gestión de reservas.
+
+**Tecnologías:** React, TypeScript, Vite, Python, Django y Django REST Framework.
+
+**Estado:** En desarrollo. El sistema continúa incorporando y ajustando funcionalidades.
+
+### 🛒 Binks — Frontend Developer
+
+**Sistema de gestión comercial | 10/2026 – Actualidad**
+
+Participo en el desarrollo frontend de una plataforma de gestión comercial para una pollería, trabajando de manera colaborativa.
+
+**Mi participación:**
+- Implementación inicial de un catálogo interactivo dentro del módulo de ventas y caja.
+- Desarrollo de navegación entre categorías, productos y variantes.
+- Integración del frontend con el contrato de una API REST y manejo de estados de carga, error y contenido vacío.
+- Implementación de validaciones, diseño responsive y mejoras de accesibilidad.
+- Desarrollo de pruebas automatizadas con respuestas simuladas.
+
+**Tecnologías:** React, TypeScript, Vite, React Router, CSS Modules, Vitest y Git.
+
+**Estado:** En desarrollo. La integración completa con el backend y otras funcionalidades del sistema continúan pendientes.
+
+---
+
+## 🚀 Proyectos destacados de formación
 
 ### 🧀 [Cheese Cash](https://github.com/Leonelbruno/cheesecash-frontend)
 
-**Billetera virtual · Proyecto integrador colaborativo**
+**Billetera virtual | Proyecto colaborativo**
 
-Participé principalmente en el desarrollo Frontend y colaboré también en funcionalidades Backend.
+Participé principalmente en el desarrollo frontend y colaboré en funcionalidades backend de una aplicación financiera.
 
-Trabajé en autenticación, recuperación de contraseña, configuración de cuenta, transferencias mediante email/PIN y cotizaciones actuales e históricas utilizando APIs externas.
+**Funcionalidades:**
+- Autenticación y recuperación de contraseña.
+- Transferencias mediante email y PIN.
+- Integración con APIs externas para consultar cotizaciones.
+- Notificaciones en tiempo real utilizando Socket.io.
+- Pruebas automatizadas y trabajo colaborativo.
 
-También desarrollé visualización de información mediante un gráfico SVG reutilizable, notificaciones en tiempo real con Socket.io y testing con Vitest.
+**Tecnologías:** React, TypeScript, Node.js, Express, PostgreSQL, Socket.io y Vitest.
 
----
+### 🛍️ [Commerce Platform](https://github.com/GonzaloB1/ProyectoM5_GonzaloBastias)
 
-### 🛒 [commerce-platform](https://github.com/GonzaloB1/ProyectoM5_GonzaloBastias)
+**Plataforma de comercio electrónico | Proyecto individual**
 
-### 🏍️ MotoParts Platform
+Desarrollé una aplicación Full Stack de comercio electrónico con funcionalidades diferenciadas para clientes y administradores.
 
-**Plataforma Full Stack de comercio electrónico y gestión de taller | Cliente real · En desarrollo**
+**Funcionalidades:**
+- Autenticación mediante Firebase y Google.
+- Roles de usuario y rutas protegidas.
+- Catálogo, búsqueda, filtros y carrito de compras.
+- Checkout y gestión de órdenes.
+- Panel administrativo para gestionar productos.
+- Integración con AWS S3 para imágenes.
+- Pruebas automatizadas.
 
-Estoy desarrollando una plataforma web para un negocio de motocicletas que integra la venta de repuestos y accesorios con la gestión administrativa y del taller.
+**Tecnologías:** React, TypeScript, Firebase Auth, Firestore, AWS S3, Vitest y React Testing Library.
 
-- Desarrollo del frontend con **Next.js, React, TypeScript y Tailwind CSS**.
-- Implementación de interfaces para catálogo, búsqueda de productos, filtros y carrito de compras.
-- Organización de vistas para **clientes, empleados, administradores y personal del taller**.
-- Planificación de una API REST con **Python, Django REST Framework y PostgreSQL** para gestionar inventario, ventas, turnos y permisos por rol.
+**Demo:** https://ai-ecommerce-sigma.vercel.app/
 
-**Estado:** En desarrollo activo.
+### 🤖 [Personajes IA Chat](https://github.com/GonzaloB1/ProyectoM3_GonzaloBastias)
 
-**Plataforma E-Commerce Full Stack**
+**Aplicación web con inteligencia artificial | Proyecto individual**
 
-Desarrollé una aplicación de comercio electrónico con autenticación mediante Firebase Auth y Google Login, roles de cliente/administrador y rutas protegidas.
+Desarrollé una aplicación de chat que permite conversar con distintos personajes utilizando inteligencia artificial generativa.
 
-Implementé catálogo, búsqueda, filtros, carrito, checkout, gestión de órdenes y panel administrativo.
+**Funcionalidades:**
+- Conversaciones dinámicas mediante Gemini API.
+- Historial persistente.
+- Interfaz responsive con modo claro y oscuro.
+- Integración mediante funciones serverless.
+- Manejo de errores y pruebas automatizadas.
 
-También integré AWS S3 mediante URLs prefirmadas para la carga segura de imágenes y desarrollé testing con Vitest y React Testing Library.
+**Tecnologías:** JavaScript, HTML, CSS, Google Gemini API, Vercel Serverless Functions y Vitest.
 
----
+**Demo:** https://proyecto-m3-gonzalo-bastias.vercel.app/
 
-### 🤖 [Personajes-ia-chat](https://github.com/GonzaloB1/ProyectoM3_GonzaloBastias)
+### 💻 MiniBlog API REST
 
-**Aplicación web de chat con inteligencia artificial**
+**API de gestión de usuarios y publicaciones | Proyecto individual**
 
-Integré Google Gemini API mediante Vercel Serverless Functions para generar conversaciones dinámicas con diferentes personajes.
+Desarrollé una API REST enfocada en la gestión de usuarios y publicaciones, aplicando conceptos de desarrollo backend, persistencia de datos y validaciones.
 
-Implementé historial persistente, manejo de errores, diseño responsive, modo claro/oscuro, protección frente a XSS y testing automatizado.
+**Funcionalidades:**
+- Operaciones CRUD.
+- Persistencia con PostgreSQL.
+- Validaciones de datos.
+- Documentación de endpoints con Swagger/OpenAPI.
+- Pruebas automatizadas con Jest y Supertest.
 
----
-
-### 📚 matecode
-
-**Aplicación de gestión de tareas**
-
-Desarrollé una aplicación con React, TypeScript y Firebase para gestionar tareas.
-
-Implementé autenticación, Firestore, rutas protegidas, Context API y sincronización de información en tiempo real.
-
-También integré envío de emails mediante funciones serverless y AWS SES, además de trabajar con reglas de seguridad y testing.
-
----
-
-### 💻 blog-api-rest
-
-**API REST con Node.js, Express y PostgreSQL**
-
-Desarrollé una API REST para la gestión de usuarios y publicaciones mediante operaciones CRUD.
-
-Implementé persistencia de datos con PostgreSQL, validaciones, testing mediante Jest y Supertest y documentación de endpoints utilizando Swagger/OpenAPI.
-
----
-
-### 🎨 Crea tus paletas de colores
-
-**Generador interactivo de paletas de colores**
-
-Desarrollé una aplicación con JavaScript, HTML y CSS para generar y gestionar diferentes combinaciones de colores.
-
-Implementé diferentes cantidades y formatos de color, interacción para copiar códigos y persistencia de las paletas guardadas mediante LocalStorage.
+**Tecnologías:** Node.js, Express, PostgreSQL, Swagger/OpenAPI, Jest y Supertest.
 
 ---
 
-## 💡 Sobre mí
+## 🎓 Formación
 
-- 💻 Soy desarrollador Full Stack Jr., con experiencia práctica en frontend y backend.
-- 🛠️ Me gusta crear soluciones completas, desde interfaces hasta APIs REST y bases de datos.
-- 🏍️ Actualmente desarrollo MotoParts Platform, un proyecto para un cliente real.
-- 🧠 Estoy ampliando mis conocimientos en Python y Django.
-- 🤝 Valoro el trabajo en equipo, la comunicación y las buenas prácticas.
-- 🚀 Busco mi primera oportunidad profesional como Full Stack Developer Jr.
+**Full Stack Developer — Soy Henry Bootcamp**  
+Marzo 2026 – Septiembre 2026
+
+Formación intensiva en desarrollo web Full Stack, con experiencia práctica en proyectos individuales y colaborativos, desarrollo frontend y backend, bases de datos, testing y metodologías de trabajo en equipo.
+
+---
+
+## 🎯 Objetivo profesional
+
+Busco mi primera oportunidad dentro de una empresa tecnológica como desarrollador Full Stack, Frontend o Backend.
+
+Mi objetivo es aportar los conocimientos adquiridos a través de mis proyectos, continuar aprendiendo nuevas tecnologías y formar parte de equipos donde pueda contribuir al desarrollo de soluciones reales.
+
 ---
 
 ## 📫 Contacto
@@ -122,3 +169,4 @@ Implementé diferentes cantidades y formatos de color, interacción para copiar 
 - 📧 **Email:** [bastiasgonzalo6@gmail.com](mailto:bastiasgonzalo6@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/gonzalo-bastias-161320430](https://www.linkedin.com/in/gonzalo-bastias-161320430/)
 - 🐙 **GitHub:** [github.com/GonzaloB1](https://github.com/GonzaloB1)
+  
